@@ -18,7 +18,11 @@ div {
     border: solid rgb(72, 99, 107);
     box-shadow: 10px 10px rgb(71, 60, 60);
 }
-
+h3{
+    color: rgb(14, 1, 1);
+    background-color: rgb(9, 160, 187);
+    visibility:inherit;
+}
 
 footer{
     text-align: center;
