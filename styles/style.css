@@ -1,12 +1,31 @@
-*{
+* {background-color: rgba(147, 184, 184, 0.658);
    
-    
+    margin-left: 1.5%
 }
-.login{
-    margin-left: ;
-    padding: 10px;
+
+.login1 {
+    color: aqua;
+    margin: 5px 5px 5px 5px;
     text-align: left;
-    background-color: orangered;
-    box-shadow:10px 10px rgb(148, 95, 74);
-    width: min-content;
+    
+    box-shadow: 10px 10px rgb(148, 95, 74);
+    width: 300px;
+}
+
+div {
+    background-image: url("—Pngtree—futuristic\ shape\ abstract\ background\ chemistry_1250295.png");
+    
+    border: solid rgb(72, 99, 107);
+    box-shadow: 10px 10px rgb(71, 60, 60);
+}
+
+
+footer{
+    text-align: center;
+    
+    font-style: italic;
+    font-weight: 1000;
+font-variant-east-asian: jis78;
+text-shadow: 2.5px 5.5px;
+text-decoration: underline;
 }
