@@ -1,35 +1,46 @@
-* {background-color: rgba(147, 184, 184, 0.658);
-   
-    margin-left: 1.5%
-}
+* {
+    background-color: rgba(147, 184, 184, 0.658);
 
+
+}
+.loginh3{
+    background-color: blueviolet;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
 .login1 {
-    color: aqua;
-    margin: 5px 5px 5px 5px;
-    text-align: left;
+    background-color: blueviolet;
+    color: rgb(209, 206, 26);
     
+    text-align: center;
+
     box-shadow: 10px 10px rgb(148, 95, 74);
-    width: 300px;
+    width- min: 400px;
 }
 
 div {
-    background-image: url("—Pngtree—futuristic\ shape\ abstract\ background\ chemistry_1250295.png");
-    
+    /* background-image: url("—Pngtree—futuristic\ shape\ abstract\ background\ chemistry_1250295.png"); */
+
     border: solid rgb(72, 99, 107);
     box-shadow: 10px 10px rgb(71, 60, 60);
-}
-h3{
-    color: rgb(14, 1, 1);
-    background-color: rgb(9, 160, 187);
-    visibility:inherit;
+    text-align: center;
 }
 
-footer{
+h3 {
+    color: rgb(14, 1, 1);
+    background-color: rgb(9, 160, 187);
+    visibility: inherit;
+    text-decoration: overline;
+
+}
+
+footer {
     text-align: center;
-    
+
     font-style: italic;
     font-weight: 1000;
-font-variant-east-asian: jis78;
-text-shadow: 2.5px 5.5px;
-text-decoration: underline;
+    font-variant-east-asian: jis78;
+    text-shadow: 2.5px 5.5px;
+    text-decoration: underline;
 }
